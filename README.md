@@ -5,7 +5,7 @@
   Weight是一款小巧方便并且查询速度很快的权重查询工具，用户可以通过该工具进行批量查询并且内置了一个小彩蛋哟~(文章末尾附带获取方法)
 
 ```
-GitHub:
+GitHub:https://github.com/ServerRoot/weight
 ```
 
 **参数解析：**
